@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/city-aqi-charts/static/css/main.95fa9f28.chunk.css",
-    "main.js": "/city-aqi-charts/static/js/main.bbb926f3.chunk.js",
-    "main.js.map": "/city-aqi-charts/static/js/main.bbb926f3.chunk.js.map",
+    "main.js": "/city-aqi-charts/static/js/main.0cf225dc.chunk.js",
+    "main.js.map": "/city-aqi-charts/static/js/main.0cf225dc.chunk.js.map",
     "runtime-main.js": "/city-aqi-charts/static/js/runtime-main.0cac2210.js",
     "runtime-main.js.map": "/city-aqi-charts/static/js/runtime-main.0cac2210.js.map",
     "static/js/2.879a2d8e.chunk.js": "/city-aqi-charts/static/js/2.879a2d8e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0cac2210.js",
     "static/js/2.879a2d8e.chunk.js",
     "static/css/main.95fa9f28.chunk.css",
-    "static/js/main.bbb926f3.chunk.js"
+    "static/js/main.0cf225dc.chunk.js"
   ]
 }
