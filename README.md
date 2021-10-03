@@ -11,3 +11,4 @@
 - automatically adding new cities to list, otherwise update their aqi data => 2 hour
 - charting with line graph for all cities - in progress
 - details and historical data of single city - in progress
+- integrate beautiful ui with tailwind css
