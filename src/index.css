@@ -1,0 +1,16 @@
+/* dependencies */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* fonts */
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
