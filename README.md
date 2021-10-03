@@ -3,6 +3,7 @@
 - uses websocket
 - aqi severity indicator
 - updates aqi for cities if aqi updates otherwise adds city to list
+- uses tailwind css configuration with craco
 
 ## time taken vs features
 
