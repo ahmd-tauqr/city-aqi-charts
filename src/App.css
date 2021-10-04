@@ -22,18 +22,6 @@ table {
   border-radius: 3px;
   background-color: #dae2ff;
 }
-.serialCol {
-  width: 10%;
-}
-.cityCol {
-  width: 40%;
-}
-.aqiCol {
-  width: 15%;
-}
-.timestampCol {
-  width: 25%;
-}
 
 tr {
   border: gray 1px solid;
@@ -41,6 +29,15 @@ tr {
 td,
 th {
   padding: 6px;
+}
+
+@media screen and (max-width: 400px) {
+  .small {
+    width: 300px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
 }
 
 /* aqi color gradings */

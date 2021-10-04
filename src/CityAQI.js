@@ -114,7 +114,7 @@ const CityAQI = () => {
     arr &&
     arr.map((item, index) => (
       <tr key={index}>
-        <td> {moment(item).fromNow()} </td>
+        <td className='small'> {moment(item).fromNow()} </td>
       </tr>
     ));
   const heading = (title) => (
