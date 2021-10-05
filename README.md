@@ -12,3 +12,7 @@
 - charting with line graph for all cities - in progress
 - details and historical data of single city - in progress
 - integrate beautiful ui with tailwind css
+
+## Live
+
+[Demo](https://ahmd-tauqr.github.io/city-aqi-charts/)
